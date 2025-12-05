@@ -1,6 +1,6 @@
-# DailyWu666 / 123
+# DailyWu666 / 个人简介
 
-[![Repository](https://img.shields.io/badge/repo-DailyWu666/123-blue?logo=github)](https://github.com/DailyWu666/123)
+[![Repository](https://img.shields.io/badge/repo-DailyWu666/123-blue?logo=github)](https://github.com/DailyWu666/个人简介)
 [![License](https://img.shields.io/badge/license-Unlicense-lightgrey)](#license)
 [![Last Updated](https://img.shields.io/badge/last--updated-2025--12--05-green)](#)
 
@@ -23,7 +23,7 @@
 若启用 GitHub Pages（推荐）：
 1. 将 about.html 放入 `docs/` 目录，或确保它在仓库根目录。
 2. 到仓库设置 (Settings) -> Pages，选择 Source 为 `main` 分支并设置 Folder 为 `/docs`（或 `root`），保存后等待页面发布。
-3. 发布后会得到类似 `https://whtthw666.github.io/123/` 的访问地址。
+3. 发布后会得到类似 `https://whtthw666.github.io/个人简介/` 的访问地址。
 
 ---
 
@@ -31,7 +31,7 @@
 
 克隆仓库并开始修改：
 ```bash
-git clone https://github.com/DailyWu666/123.git
+git clone https://github.com/DailyWu666/个人简介.git
 cd 123
 # 编辑 about.html 或添加新的项目文件
 ```
